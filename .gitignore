@@ -1,0 +1,15 @@
+# Artefatos de build (quando formos para PlatformIO/ESP-IDF)
+.pio/
+build/
+*.bin
+*.elf
+*.hex
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+*.swp
